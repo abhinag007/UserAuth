@@ -16,7 +16,7 @@ UserAuth is an Android application built with Jetpack Compose and Firebase that 
 - **Jetpack Compose**: UI toolkit for building native Android UIs.
 - **Firebase**: Authentication, Firestore for database.
 - **Kotlin**: Programming language used for Android development.
-- **Room**: Local database for storing user data.
+- **SQLite**: Local database for storing user data.
 - **Navigation**: Handling app navigation with Jetpack Compose Navigation.
 
 ## Setup
