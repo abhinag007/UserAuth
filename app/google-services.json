@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658660079721",
+    "project_id": "userauth-32faf",
+    "storage_bucket": "userauth-32faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658660079721:android:d21efdb6e3f8b0ac92caf8",
+        "android_client_info": {
+          "package_name": "com.example.userauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM_VibGjeiYrcWghL0XqI6_JnwPvgLxrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
